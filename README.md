@@ -1,13 +1,7 @@
 <div align="center">
+    
+<img width="1366" height="840" alt="image" src="https://github.com/user-attachments/assets/74e8f4ca-a73f-467d-86ac-c1b090158bd9" />
 
-```
-██╗  ██╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗
-██║ ██╔╝██╔═══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝
-█████╔╝ ██║   ██║██║   ██║███████╗███████║██║█████╔╝ 
-██╔═██╗ ██║   ██║██║   ██║╚════██║██╔══██║██║██╔═██╗ 
-██║  ██╗╚██████╔╝╚██████╔╝███████║██║  ██║██║██║  ██╗
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%94%A5;Turning+Data+into+Intelligence+%F0%9F%93%8A" alt="Typing SVG" />
 
@@ -17,29 +11,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=3&section=header" width="100%"/>
 
 </div>
-
----
-
-## 🧠 `> whoami`
-
-```python
-class KoushikDutta:
-    def __init__(self):
-        self.name        = "Koushik Dutta"
-        self.username    = "koushikdutta07"
-        self.role        = "AI / ML Engineer"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "R", "SQL", "Julia"]
-        self.focus       = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-        self.currently   = "Training neural networks & breaking things"
-        self.fun_fact    = "I teach machines to think, then wonder if I do too 🤔"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🚀")
-
-me = KoushikDutta()
-me.say_hi()
-```
 
 ---
 
@@ -78,58 +49,6 @@ me.say_hi()
 
 ---
 
-## 🔭 `> ls ~/domains`
-
-```
-.
-├── 🧠  Natural Language Processing (NLP)
-│   ├── Large Language Models (LLMs)
-│   ├── Text Classification & Sentiment Analysis
-│   └── Retrieval-Augmented Generation (RAG)
-│
-├── 👁️  Computer Vision
-│   ├── Object Detection & Segmentation
-│   ├── Image Classification
-│   └── Generative Models (GANs / Diffusion)
-│
-├── 📈  Machine Learning
-│   ├── Supervised / Unsupervised Learning
-│   ├── Time Series Forecasting
-│   └── Feature Engineering & Model Optimization
-│
-└── ⚙️  MLOps
-    ├── Model Deployment & Serving
-    ├── Pipeline Automation
-    └── Experiment Tracking
-```
-
----
-
-## 📊 `> git log --stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikdutta07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikdutta07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&cache_seconds=1800&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=koushikdutta07&theme=dark&background=0d1117&border=00d9ff&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" />
-
-</div>
-
----
-
-## 🏆 `> model.evaluate(achievements)`
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=koushikdutta07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 📡 `> ping --connect`
 
 <div align="center">
@@ -143,24 +62,8 @@ me.say_hi()
 
 ---
 
-## 🤖 `> model.predict(today)`
-
-```
-⠀⠀⠀⠀⠀⠀⠀⠀Learning something new...
-⠀⠀⠀⠀⠀⠀⠀⠀Building something cool...
-⠀⠀⠀⠀⠀⠀⠀⠀Making machines a little smarter...
-⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀>>> OUTPUT: Another great day in AI 🔥
-```
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=80&section=footer" width="100%"/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=koushikdutta07&color=00d9ff&style=for-the-badge&label=NEURAL+VISITORS)
-
-*"Any sufficiently advanced AI is indistinguishable from magic." — Arthur C. Clarke (probably)*
+*AI is the DORAEMON we all wanted*
 
 </div>
