@@ -12,12 +12,6 @@
 
 <div align="center">
 
-### 🧠 My Machine Learning Pipeline
-
-```
-Raw Data ──► Clean Data ──► Train Model ──► Overfit ──► Cry ──► Repeat
-```
-
 </div>
 
 ---
@@ -41,26 +35,12 @@ class Koushik:
     def current_mood(self):
         loss = self._calculate_validation_loss()
         if loss > 0.9:
-            return "😭 everything is on fire"
+            return "oops im justa boy"
         elif loss > 0.5:
-            return "😐 it is what it is"
+            return "it is what it is"
         else:
-            return "🎉 wait, something worked???"
+            return "it worked??? ya"
 ```
-
----
-
-## ⚰️ My Daily Debugging Experience
-
-<div align="center">
-
-```
-Me at 9 AM:   "Today I will write clean, efficient code."
-
-Me at 11 PM:  git commit -m "it works don't touch it"
-```
-
-</div>
 
 ---
 
@@ -77,7 +57,6 @@ Me at 11 PM:  git commit -m "it works don't touch it"
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -96,46 +75,10 @@ Me at 11 PM:  git commit -m "it works don't touch it"
 
 </div>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=koushikdutta07&theme=radical&hide_border=true&background=0D1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444)](https://git.io/streak-stats)
 
-</div>
 
 ---
-
-## 🤡 ML Truths I've Accepted
-
-| Expectation | Reality |
-|-------------|---------|
-| 95% accuracy on test set | Overfitting. It's always overfitting. |
-| "Just add more layers" | GPU cries in 8GB VRAM |
-| Model in production | `nan` loss in production |
-| Training time: 10 min | `Epoch 1/100` ... still on epoch 1 |
-| Clean dataset | 40% missing values, 20% wrong labels |
-| Interpretable AI | `black_box.predict(your_soul)` |
-
----
-
-## 🔥 The Five Stages of a Bug
-
-```
-1. 😤  "This shouldn't be happening."
-2. 🔍  "Let me add some print statements."
-3. 😰  "Why is everything None???"
-4. 😶  Googles error. Finds own StackOverflow answer from 2 years ago.
-5. 🤡  The bug was a missing comma.
-```
-
----
-
-## 🌊 Contribution Graph
-
-<div align="center">
-
-[![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koushikdutta07&bg_color=0D1117&color=FF4444&line=FF4444&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
@@ -147,13 +90,6 @@ Me at 11 PM:  git commit -m "it works don't touch it"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/koushikdutta07)
 
 </div>
-
----
-
-<div align="center">
-
-*"In God we trust. All others must bring data."*
-— W. Edwards Deming (and also every ML engineer ever)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=koushikdutta07&color=red&style=flat-square&label=People+who+clicked+by+accident)
 
