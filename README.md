@@ -54,15 +54,6 @@ class Koushik:
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=koushikdutta07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikdutta07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=ffffff" height="165"/>
-
-</div>
-
 ## 📡 Find Me
 
 <div align="center">
@@ -71,6 +62,7 @@ class Koushik:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/koushikdutta07)
 
 </div>
+
 <div align="center>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=koushikdutta07&color=red&style=flat-square&label=People+who+clicked+by+accident)
