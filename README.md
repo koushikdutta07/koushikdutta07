@@ -8,14 +8,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-</div>
-
----
-
 ## 👤 About Me
 
 ```python
@@ -42,8 +34,6 @@ class Koushik:
             return "it worked??? ya"
 ```
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -64,8 +54,6 @@ class Koushik:
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,13 +63,6 @@ class Koushik:
 
 </div>
 
-
-
-
----
-
----
-
 ## 📡 Find Me
 
 <div align="center">
@@ -90,6 +71,7 @@ class Koushik:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/koushikdutta07)
 
 </div>
+<div align="center>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=koushikdutta07&color=red&style=flat-square&label=People+who+clicked+by+accident)
 
