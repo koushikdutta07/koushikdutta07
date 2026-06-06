@@ -7,7 +7,6 @@
 ██╔═██╗ ██║   ██║██║   ██║╚════██║██╔══██║██║██╔═██╗ 
 ██║  ██╗╚██████╔╝╚██████╔╝███████║██║  ██║██║██║  ██╗
 ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-                                               DUTTA
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%94%A5;Turning+Data+into+Intelligence+%F0%9F%93%8A" alt="Typing SVG" />
@@ -110,12 +109,12 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikdutta07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikdutta07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=koushikdutta07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00d9ff&icon_color=00d9ff&title_color=00d9ff&text_color=ffffff&hide_border=false&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikdutta07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&cache_seconds=1800&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=koushikdutta07&theme=dark&background=0d1117&border=00d9ff&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" />
+<img src="https://streak-stats.demolab.com/?user=koushikdutta07&theme=dark&background=0d1117&border=00d9ff&stroke=00d9ff&ring=7c3aed&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888" />
 
 </div>
 
