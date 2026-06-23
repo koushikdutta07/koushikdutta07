@@ -1,24 +1,20 @@
 <div align="center">
-    
-```
-██╗  ██╗ ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗  ██╗
-██║ ██╔╝██╔═══██╗██║   ██║██╔════╝██║  ██║██║██║ ██╔╝
-█████╔╝ ██║   ██║██║   ██║███████╗███████║██║█████╔╝ 
-██╔═██╗ ██║   ██║██║   ██║╚════██║██╔══██║██║██╔═██╗ 
-██║  ██╗╚██████╔╝╚██████╔╝███████║██║  ██║██║██║  ██╗
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣴⣶⣶⣶⣶⣶⠶⣶⣤⣤⣀⠀⠀⠀⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⠁⠀⢀⠈⢿⢀⣀⠀⠹⣿⣿⣿⣦⣄⠀⠀⠀ 
+⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⠿⠀⠀⣟⡇⢘⣾⣽⠀⠀⡏⠉⠙⢛⣿⣷⡖⠀ 
+⠀⠀⠀⠀⠀⣾⣿⣿⡿⠿⠷⠶⠤⠙⠒⠀⠒⢻⣿⣿⡷⠋⠀⠴⠞⠋⠁⢙⣿⣄ 
+⠀⠀⠀⠀⢸⣿⣿⣯⣤⣤⣤⣤⣤⡄⠀⠀⠀⠀⠉⢹⡄⠀⠀⠀⠛⠛⠋⠉⠹⡇ 
+⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⣀⣠⣤⣤⣤⣤⣤⣤⣤⣼⣇⣀⣀⣀⣛⣛⣒⣲⢾⡷ 
+⢀⠤⠒⠒⢼⣿⣿⠶⠞⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⣼⠃ 
+⢮⠀⠀⠀⠀⣿⣿⣆⠀⠀⠻⣿⡿⠛⠉⠉⠁⠀⠉⠉⠛⠿⣿⣿⠟⠁⠀⣼⠃⠀ 
+⠈⠓⠶⣶⣾⣿⣿⣿⣧⡀⠀⠈⠒⢤⣀⣀⡀⠀⠀⣀⣀⡠⠚⠁⠀⢀⡼⠃⠀⠀ 
+⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣷⣤⣤⣤⣤⣭⣭⣭⣭⣭⣥⣤⣤⣤⣴⣟⠁
 
-        ██████╗ ██╗   ██╗████████╗████████╗ █████╗ 
-        ██╔══██╗██║   ██║╚══██╔══╝╚══██╔══╝██╔══██╗
-        ██║  ██║██║   ██║   ██║      ██║   ███████║
-        ██║  ██║██║   ██║   ██║      ██║   ██╔══██║
-        ██████╔╝╚██████╔╝   ██║      ██║   ██║  ██║
-        ╚═════╝  ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝
-```
+</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=1400&lines=Building+projects+at+the+intersection+of+AI%2C+software+engineering%2C+and+problem+solving.;Driven+by+curiosity." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%94%A5;Turning+Data+into+Intelligence+%F0%9F%93%8A" alt="Typing SVG" />
-
----
+</div>
 
 <div align="center">
 
